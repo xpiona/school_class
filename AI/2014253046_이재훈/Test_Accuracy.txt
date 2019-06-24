@@ -1,0 +1,148 @@
+
+
+Experiment of building Supervised NN system has started.
+Sz0=  784, Sz1=  500, Sz2=  400, Sz3=   10, Num_Train_expls= 60000, Num_test_examples= 10000, learning_rate=0.080000
+After epoch= 0, Ing_rate= 0.080000,	S-NN Accuracy = 0.924900
+After epoch= 1, Ing_rate= 0.080000,	S-NN Accuracy = 0.946900
+After epoch= 2, Ing_rate= 0.080000,	S-NN Accuracy = 0.955800
+After epoch= 3, Ing_rate= 0.080000,	S-NN Accuracy = 0.960000
+After epoch= 4, Ing_rate= 0.080000,	S-NN Accuracy = 0.966300
+After epoch= 5, Ing_rate= 0.080000,	S-NN Accuracy = 0.970600
+After epoch= 6, Ing_rate= 0.080000,	S-NN Accuracy = 0.971400
+After epoch= 7, Ing_rate= 0.080000,	S-NN Accuracy = 0.969900
+After epoch= 8, Ing_rate= 0.080000,	S-NN Accuracy = 0.974500
+After epoch= 9, Ing_rate= 0.080000,	S-NN Accuracy = 0.972900
+
+
+Experiment of building Supervised NN system has started.
+Sz0=  784, Sz1=  421, Sz2=  150, Sz3=   10, Num_Train_expls= 60000, Num_test_examples= 10000, learning_rate=0.080000
+After epoch= 0, Ing_rate= 0.080000,	S-NN Accuracy = 0.932000
+After epoch= 1, Ing_rate= 0.080000,	S-NN Accuracy = 0.950700
+After epoch= 2, Ing_rate= 0.080000,	S-NN Accuracy = 0.960100
+After epoch= 3, Ing_rate= 0.080000,	S-NN Accuracy = 0.962300
+After epoch= 4, Ing_rate= 0.080000,	S-NN Accuracy = 0.959500
+After epoch= 5, Ing_rate= 0.080000,	S-NN Accuracy = 0.967500
+After epoch= 6, Ing_rate= 0.080000,	S-NN Accuracy = 0.967500
+After epoch= 7, Ing_rate= 0.080000,	S-NN Accuracy = 0.966800
+After epoch= 8, Ing_rate= 0.080000,	S-NN Accuracy = 0.971600
+After epoch= 9, Ing_rate= 0.080000,	S-NN Accuracy = 0.968000
+
+
+Experiment of building Supervised NN system has started.
+Sz0=  784, Sz1=  480, Sz2=  120, Sz3=   10, Num_Train_expls= 60000, Num_test_examples= 10000, learning_rate=0.080000
+After epoch= 0, Ing_rate= 0.080000,	S-NN Accuracy = 0.929800
+After epoch= 1, Ing_rate= 0.080000,	S-NN Accuracy = 0.942900
+After epoch= 2, Ing_rate= 0.080000,	S-NN Accuracy = 0.954700
+After epoch= 3, Ing_rate= 0.080000,	S-NN Accuracy = 0.962900
+After epoch= 4, Ing_rate= 0.080000,	S-NN Accuracy = 0.962000
+After epoch= 5, Ing_rate= 0.080000,	S-NN Accuracy = 0.964400
+After epoch= 6, Ing_rate= 0.080000,	S-NN Accuracy = 0.963600
+After epoch= 7, Ing_rate= 0.080000,	S-NN Accuracy = 0.967400
+After epoch= 8, Ing_rate= 0.080000,	S-NN Accuracy = 0.966400
+After epoch= 9, Ing_rate= 0.080000,	S-NN Accuracy = 0.966600
+
+
+Experiment of building Supervised NN system has started.
+Sz0=  784, Sz1=  400, Sz2=  120, Sz3=   10, Num_Train_expls= 60000, Num_test_examples= 10000, learning_rate=0.090000
+After epoch= 0, Ing_rate= 0.090000,	S-NN Accuracy = 0.939800
+After epoch= 1, Ing_rate= 0.090000,	S-NN Accuracy = 0.949700
+After epoch= 2, Ing_rate= 0.090000,	S-NN Accuracy = 0.958900
+After epoch= 3, Ing_rate= 0.090000,	S-NN Accuracy = 0.960200
+After epoch= 4, Ing_rate= 0.090000,	S-NN Accuracy = 0.961600
+After epoch= 5, Ing_rate= 0.090000,	S-NN Accuracy = 0.964500
+After epoch= 6, Ing_rate= 0.090000,	S-NN Accuracy = 0.963900
+After epoch= 7, Ing_rate= 0.090000,	S-NN Accuracy = 0.966200
+After epoch= 8, Ing_rate= 0.090000,	S-NN Accuracy = 0.966500
+After epoch= 9, Ing_rate= 0.090000,	S-NN Accuracy = 0.965600
+
+
+Experiment of building Supervised NN system has started.
+Sz0=  784, Sz1=  460, Sz2=  133, Sz3=   10, Num_Train_expls= 60000, Num_test_examples= 10000, learning_rate=0.090000
+After epoch= 0, Ing_rate= 0.090000,	S-NN Accuracy = 0.928600
+After epoch= 1, Ing_rate= 0.090000,	S-NN Accuracy = 0.947300
+After epoch= 2, Ing_rate= 0.090000,	S-NN Accuracy = 0.955100
+After epoch= 3, Ing_rate= 0.090000,	S-NN Accuracy = 0.962700
+After epoch= 4, Ing_rate= 0.090000,	S-NN Accuracy = 0.962300
+After epoch= 5, Ing_rate= 0.090000,	S-NN Accuracy = 0.961900
+After epoch= 6, Ing_rate= 0.090000,	S-NN Accuracy = 0.965900
+After epoch= 7, Ing_rate= 0.090000,	S-NN Accuracy = 0.970400
+After epoch= 8, Ing_rate= 0.090000,	S-NN Accuracy = 0.970100
+After epoch= 9, Ing_rate= 0.090000,	S-NN Accuracy = 0.972200
+
+
+Experiment of building Supervised NN system has started.
+Sz0=  784, Sz1=  320, Sz2=  100, Sz3=   10, Num_Train_expls= 60000, Num_test_examples= 10000, learning_rate=0.200000
+After epoch= 0, Ing_rate= 0.200000,	S-NN Accuracy = 0.931000
+After epoch= 1, Ing_rate= 0.200000,	S-NN Accuracy = 0.928400
+After epoch= 2, Ing_rate= 0.200000,	S-NN Accuracy = 0.949100
+After epoch= 3, Ing_rate= 0.200000,	S-NN Accuracy = 0.949500
+After epoch= 4, Ing_rate= 0.200000,	S-NN Accuracy = 0.961200
+After epoch= 5, Ing_rate= 0.200000,	S-NN Accuracy = 0.956000
+After epoch= 6, Ing_rate= 0.200000,	S-NN Accuracy = 0.960600
+After epoch= 7, Ing_rate= 0.200000,	S-NN Accuracy = 0.963800
+After epoch= 8, Ing_rate= 0.200000,	S-NN Accuracy = 0.959900
+After epoch= 9, Ing_rate= 0.200000,	S-NN Accuracy = 0.953700
+
+Experiment of building Supervised NN system has started.
+Sz0=  784, Sz1=  521, Sz2=  400, Sz3=   10, Num_Train_expls= 60000, Num_test_examples= 10000, learning_rate=0.120000
+After epoch= 0, Ing_rate= 0.120000,	S-NN Accuracy = 0.908000
+
+
+Experiment of building Supervised NN system has started.
+Sz0=  784, Sz1=  420, Sz2=  190, Sz3=   10, Num_Train_expls= 60000, Num_test_examples= 10000, learning_rate=0.180000
+After epoch= 0, Ing_rate= 0.180000,	S-NN Accuracy = 0.911400
+After epoch= 1, Ing_rate= 0.180000,	S-NN Accuracy = 0.933200
+After epoch= 2, Ing_rate= 0.180000,	S-NN Accuracy = 0.951200
+After epoch= 3, Ing_rate= 0.180000,	S-NN Accuracy = 0.952400
+After epoch= 4, Ing_rate= 0.180000,	S-NN Accuracy = 0.955100
+After epoch= 5, Ing_rate= 0.180000,	S-NN Accuracy = 0.963800
+After epoch= 6, Ing_rate= 0.180000,	S-NN Accuracy = 0.964900
+After epoch= 7, Ing_rate= 0.180000,	S-NN Accuracy = 0.964400
+After epoch= 8, Ing_rate= 0.180000,	S-NN Accuracy = 0.958500
+After epoch= 9, Ing_rate= 0.180000,	S-NN Accuracy = 0.962800
+
+
+Experiment of building Supervised NN system has started.
+Sz0=  784, Sz1=  505, Sz2=  190, Sz3=   10, Num_Train_expls= 60000, Num_test_examples= 10000, learning_rate=0.180000
+After epoch= 0, Ing_rate= 0.180000,	S-NN Accuracy = 0.878200
+After epoch= 1, Ing_rate= 0.180000,	S-NN Accuracy = 0.916700
+After epoch= 2, Ing_rate= 0.180000,	S-NN Accuracy = 0.905100
+After epoch= 3, Ing_rate= 0.180000,	S-NN Accuracy = 0.945500
+After epoch= 4, Ing_rate= 0.180000,	S-NN Accuracy = 0.951700
+After epoch= 5, Ing_rate= 0.180000,	S-NN Accuracy = 0.948000
+After epoch= 6, Ing_rate= 0.180000,	S-NN Accuracy = 0.951400
+After epoch= 7, Ing_rate= 0.180000,	S-NN Accuracy = 0.951600
+After epoch= 8, Ing_rate= 0.180000,	S-NN Accuracy = 0.952400
+After epoch= 9, Ing_rate= 0.180000,	S-NN Accuracy = 0.956200
+
+
+Experiment of building Supervised NN system has started.
+Sz0=  784, Sz1=  428, Sz2=  132, Sz3=   10, Num_Train_expls= 60000, Num_test_examples= 10000, learning_rate=0.200000
+After epoch= 0, Ing_rate= 0.200000,	S-NN Accuracy = 0.907800
+After epoch= 1, Ing_rate= 0.200000,	S-NN Accuracy = 0.923000
+After epoch= 2, Ing_rate= 0.200000,	S-NN Accuracy = 0.917400
+After epoch= 3, Ing_rate= 0.200000,	S-NN Accuracy = 0.933000
+After epoch= 4, Ing_rate= 0.200000,	S-NN Accuracy = 0.952000
+After epoch= 5, Ing_rate= 0.200000,	S-NN Accuracy = 0.953900
+After epoch= 6, Ing_rate= 0.200000,	S-NN Accuracy = 0.957900
+After epoch= 7, Ing_rate= 0.200000,	S-NN Accuracy = 0.958800
+After epoch= 8, Ing_rate= 0.200000,	S-NN Accuracy = 0.960800
+After epoch= 9, Ing_rate= 0.200000,	S-NN Accuracy = 0.953300
+
+
+Experiment of building Supervised NN system has started.
+Sz0=  784, Sz1=  520, Sz2=  380, Sz3=   10, Num_Train_expls= 60000, Num_test_examples= 10000, learning_rate=0.200000
+After epoch= 0, Ing_rate= 0.200000,	S-NN Accuracy = 0.756300
+After epoch= 1, Ing_rate= 0.200000,	S-NN Accuracy = 0.725500
+After epoch= 2, Ing_rate= 0.200000,	S-NN Accuracy = 0.501500
+After epoch= 3, Ing_rate= 0.200000,	S-NN Accuracy = 0.321300
+
+
+Experiment of building Supervised NN system has started.
+Sz0=  784, Sz1=  520, Sz2=  210, Sz3=   10, Num_Train_expls= 60000, Num_test_examples= 10000, learning_rate=0.100000
+After epoch= 0, Ing_rate= 0.100000,	S-NN Accuracy = 0.901800
+After epoch= 1, Ing_rate= 0.100000,	S-NN Accuracy = 0.934000
+After epoch= 2, Ing_rate= 0.100000,	S-NN Accuracy = 0.955600
+After epoch= 3, Ing_rate= 0.100000,	S-NN Accuracy = 0.964800
+After epoch= 4, Ing_rate= 0.100000,	S-NN Accuracy = 0.968700
+After epoch= 5, Ing_rate= 0.100000,	S-NN Accuracy = 0.968100
