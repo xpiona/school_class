@@ -1,0 +1,92 @@
+<%@ page language="java" contentType="text/html; charset=UTF-8" pageEncoding="UTF-8" %>
+<%@ page import = "java.sql.*" %>
+<%
+    request.setCharacterEncoding("UTF-8");
+%>
+<%
+    if (session.getAttribute("signedUser") == null) {
+        response.sendRedirect("logout.jsp");
+    }
+%>
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+table.type11 {
+    border-collapse: separate;
+    border-spacing: 1px;
+    text-align: center;
+    line-height: 1.5;
+    margin: 20px 10px;
+}
+table.type11 th {
+    width: 155px;
+    padding: 10px;
+    font-weight: bold;
+    vertical-align: top;
+    color: #fff;
+    background: #ce4869 ;
+}
+table.type11 td {
+    width: 155px;
+    padding: 10px;
+    vertical-align: top;
+    border-bottom: 1px solid #ccc;
+    background: #eee;
+}
+body{
+        background-image: url("dbtrip.jpg");
+        background-size:cover;	
+        }</style>
+<title>Insert title here</title>
+</head>
+<body>
+
+<%
+	
+	String name = request.getParameter("name");
+	int attack = Integer.parseInt(request.getParameter("attack"));
+	int defence = Integer.parseInt(request.getParameter("defence"));
+	int hp = Integer.parseInt(request.getParameter("hp"));
+	int mp = Integer.parseInt(request.getParameter("mp"));
+	int strenght = Integer.parseInt(request.getParameter("strenght"));
+	int intelligence = Integer.parseInt(request.getParameter("intelligence"));
+	String alive = request.getParameter("alive");
+
+	
+	Connection conn = null;
+	PreparedStatement pstmt = null;
+	String sql = "update 종족 set 종족이름=?, 공격력보정=?, 방어력보정=?, 체력보정=?, 마력보정=?, 힘보정=?, 지능보정=?, 멸망여부=? where 종족이름 = ?";
+	int n=0; 
+	
+	try{
+		conn = DriverManager.getConnection("jdbc:oracle:thin:@localhost:1521:orcl", "system", "Dlwogns95");
+		pstmt=conn.prepareStatement(sql);
+		pstmt.setString(1,name);
+		pstmt.setInt(2,attack);
+		pstmt.setInt(3,defence);
+		pstmt.setInt(4,hp);
+		pstmt.setInt(5,mp);
+		pstmt.setInt(6,strenght);
+		pstmt.setInt(7,intelligence);
+		pstmt.setString(8,alive);
+		pstmt.setString(9,name);
+		pstmt.executeUpdate();
+		pstmt.close();
+		conn.close();
+		String redirectUrl = "admin_welcome.jsp";
+		response.sendRedirect(redirectUrl);
+		
+	}catch(SQLException se){
+		System.out.println(se.getMessage());
+	}finally{
+		try{
+			if(pstmt!=null)pstmt.close();
+			if(conn!=null)conn.close();
+		}catch(SQLException se){
+			System.out.println(se.getMessage());
+		}
+	}%>
+
+</body>
+</html>
