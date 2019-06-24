@@ -1,0 +1,4 @@
+﻿  hw02_2014253046.c
+c:\users\leejaehoon\source\repos\hw02_2014253046\hw02_2014253046\hw02_2014253046.c(430): warning C4098: 'Read_trainging_data': 'void' 함수에서 값을 반환하고 있습니다.
+c:\users\leejaehoon\source\repos\hw02_2014253046\hw02_2014253046\hw02_2014253046.c(477): warning C4098: 'Read_trainging_data': 'void' 함수에서 값을 반환하고 있습니다.
+  hw02_2014253046.vcxproj -> C:\Users\LeeJaeHoon\source\repos\hw02_2014253046\Debug\hw02_2014253046.exe

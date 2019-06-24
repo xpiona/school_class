@@ -1,0 +1,176 @@
+Experiment of building Supervised NN system has started.
+Sz0=  784, Sz1=  500, Sz2=  400, Sz3=   10, Num_Train_expls= 60000, Num_test_examples= 10000, learning_rate=0.050000
+, Size_minibatch=16
+After epoch= 0, learning_rate=0.050000, S-NN Accuracy= 0.924800
+After epoch= 1, learning_rate=0.050000, S-NN Accuracy= 0.949900
+After epoch= 2, learning_rate=0.050000, S-NN Accuracy= 0.959900
+After epoch= 3, learning_rate=0.050000, S-NN Accuracy= 0.959100
+After epoch= 4, learning_rate=0.050000, S-NN Accuracy= 0.966300
+After epoch= 5, learning_rate=0.050000, S-NN Accuracy= 0.967900
+After epoch= 6, learning_rate=0.050000, S-NN Accuracy= 0.970100
+After epoch= 7, learning_rate=0.050000, S-NN Accuracy= 0.975100
+After epoch= 8, learning_rate=0.050000, S-NN Accuracy= 0.974900
+After epoch= 9, learning_rate=0.050000, S-NN Accuracy= 0.976100
+
+
+Experiment of building Supervised NN system has started.
+Sz0=  784, Sz1=  500, Sz2=  400, Sz3=   10, Num_Train_expls= 60000, Num_test_examples= 10000, learning_rate=0.050000
+, Size_minibatch=8
+After epoch= 0, learning_rate=0.050000, S-NN Accuracy= 0.932000
+After epoch= 1, learning_rate=0.050000, S-NN Accuracy= 0.944100
+After epoch= 2, learning_rate=0.050000, S-NN Accuracy= 0.959500
+After epoch= 3, learning_rate=0.050000, S-NN Accuracy= 0.966500
+After epoch= 4, learning_rate=0.050000, S-NN Accuracy= 0.967100
+After epoch= 5, learning_rate=0.050000, S-NN Accuracy= 0.963800
+After epoch= 6, learning_rate=0.050000, S-NN Accuracy= 0.970400
+After epoch= 7, learning_rate=0.050000, S-NN Accuracy= 0.969800
+After epoch= 8, learning_rate=0.050000, S-NN Accuracy= 0.973200
+After epoch= 9, learning_rate=0.050000, S-NN Accuracy= 0.973900
+
+
+Experiment of building Supervised NN system has started.
+Sz0=  784, Sz1=  500, Sz2=  400, Sz3=   10, Num_Train_expls= 60000, Num_test_examples= 10000, learning_rate=0.050000
+, Size_minibatch=4
+After epoch= 0, learning_rate=0.050000, S-NN Accuracy= 0.929500
+After epoch= 1, learning_rate=0.050000, S-NN Accuracy= 0.952900
+After epoch= 2, learning_rate=0.050000, S-NN Accuracy= 0.960600
+After epoch= 3, learning_rate=0.050000, S-NN Accuracy= 0.960400
+After epoch= 4, learning_rate=0.050000, S-NN Accuracy= 0.964300
+After epoch= 5, learning_rate=0.050000, S-NN Accuracy= 0.969100
+After epoch= 6, learning_rate=0.050000, S-NN Accuracy= 0.966800
+After epoch= 7, learning_rate=0.050000, S-NN Accuracy= 0.972000
+After epoch= 8, learning_rate=0.050000, S-NN Accuracy= 0.974000
+After epoch= 9, learning_rate=0.050000, S-NN Accuracy= 0.975200
+
+
+Experiment of building Supervised NN system has started.
+Sz0=  784, Sz1=  500, Sz2=  400, Sz3=   10, Num_Train_expls= 60000, Num_test_examples= 10000, learning_rate=0.050000
+, Size_minibatch=32
+After epoch= 0, learning_rate=0.050000, S-NN Accuracy= 0.935100
+After epoch= 1, learning_rate=0.050000, S-NN Accuracy= 0.951800
+After epoch= 2, learning_rate=0.050000, S-NN Accuracy= 0.958300
+After epoch= 3, learning_rate=0.050000, S-NN Accuracy= 0.955900
+After epoch= 4, learning_rate=0.050000, S-NN Accuracy= 0.965000
+After epoch= 5, learning_rate=0.050000, S-NN Accuracy= 0.969000
+After epoch= 6, learning_rate=0.050000, S-NN Accuracy= 0.965200
+After epoch= 7, learning_rate=0.050000, S-NN Accuracy= 0.972000
+After epoch= 8, learning_rate=0.050000, S-NN Accuracy= 0.972800
+After epoch= 9, learning_rate=0.050000, S-NN Accuracy= 0.973400
+
+
+Experiment of building Supervised NN system has started.
+Sz0=  784, Sz1=  500, Sz2=  400, Sz3=   10, Num_Train_expls= 60000, Num_test_examples= 10000, learning_rate=0.050000
+, Size_minibatch=2
+After epoch= 0, learning_rate=0.050000, S-NN Accuracy= 0.933200
+After epoch= 1, learning_rate=0.050000, S-NN Accuracy= 0.954100
+After epoch= 2, learning_rate=0.050000, S-NN Accuracy= 0.963100
+After epoch= 3, learning_rate=0.050000, S-NN Accuracy= 0.966300
+After epoch= 4, learning_rate=0.050000, S-NN Accuracy= 0.967500
+After epoch= 5, learning_rate=0.050000, S-NN Accuracy= 0.968100
+After epoch= 6, learning_rate=0.050000, S-NN Accuracy= 0.966600
+After epoch= 7, learning_rate=0.050000, S-NN Accuracy= 0.970600
+After epoch= 8, learning_rate=0.050000, S-NN Accuracy= 0.971000
+After epoch= 9, learning_rate=0.050000, S-NN Accuracy= 0.975000
+
+
+Experiment of building Supervised NN system has started.
+Sz0=  784, Sz1=  500, Sz2=  400, Sz3=   10, Num_Train_expls= 60000, Num_test_examples= 10000, learning_rate=0.050000
+, Size_minibatch=1
+After epoch= 0, learning_rate=0.050000, S-NN Accuracy= 0.924400
+After epoch= 1, learning_rate=0.050000, S-NN Accuracy= 0.940700
+After epoch= 2, learning_rate=0.050000, S-NN Accuracy= 0.960000
+After epoch= 3, learning_rate=0.050000, S-NN Accuracy= 0.965200
+After epoch= 4, learning_rate=0.050000, S-NN Accuracy= 0.960600
+After epoch= 5, learning_rate=0.050000, S-NN Accuracy= 0.965400
+After epoch= 6, learning_rate=0.050000, S-NN Accuracy= 0.962600
+After epoch= 7, learning_rate=0.050000, S-NN Accuracy= 0.965300
+After epoch= 8, learning_rate=0.050000, S-NN Accuracy= 0.964600
+After epoch= 9, learning_rate=0.050000, S-NN Accuracy= 0.968900
+
+
+Experiment of building Supervised NN system has started.
+Sz0=  784, Sz1=  500, Sz2=  400, Sz3=   10, Num_Train_expls= 60000, Num_test_examples= 10000, learning_rate=0.100000
+, Size_minibatch=32
+After epoch= 0, learning_rate=0.100000, S-NN Accuracy= 0.097400
+After epoch= 1, learning_rate=0.100000, S-NN Accuracy= 0.888700
+After epoch= 2, learning_rate=0.100000, S-NN Accuracy= 0.932400
+After epoch= 3, learning_rate=0.100000, S-NN Accuracy= 0.939100
+After epoch= 4, learning_rate=0.100000, S-NN Accuracy= 0.954000
+After epoch= 5, learning_rate=0.100000, S-NN Accuracy= 0.957400
+After epoch= 6, learning_rate=0.100000, S-NN Accuracy= 0.957600
+After epoch= 7, learning_rate=0.100000, S-NN Accuracy= 0.961300
+After epoch= 8, learning_rate=0.100000, S-NN Accuracy= 0.965300
+After epoch= 9, learning_rate=0.100000, S-NN Accuracy= 0.956600
+
+
+Experiment of building Supervised NN system has started.
+Sz0=  784, Sz1=  500, Sz2=  400, Sz3=   10, Num_Train_expls= 60000, Num_test_examples= 10000, learning_rate=0.100000
+, Size_minibatch=16
+After epoch= 0, learning_rate=0.100000, S-NN Accuracy= 0.905600
+After epoch= 1, learning_rate=0.100000, S-NN Accuracy= 0.945600
+After epoch= 2, learning_rate=0.100000, S-NN Accuracy= 0.957900
+After epoch= 3, learning_rate=0.100000, S-NN Accuracy= 0.959200
+After epoch= 4, learning_rate=0.100000, S-NN Accuracy= 0.965200
+After epoch= 5, learning_rate=0.100000, S-NN Accuracy= 0.968500
+After epoch= 6, learning_rate=0.100000, S-NN Accuracy= 0.964500
+After epoch= 7, learning_rate=0.100000, S-NN Accuracy= 0.970900
+After epoch= 8, learning_rate=0.100000, S-NN Accuracy= 0.972300
+After epoch= 9, learning_rate=0.100000, S-NN Accuracy= 0.973000
+
+
+Experiment of building Supervised NN system has started.
+Sz0=  784, Sz1=  500, Sz2=  400, Sz3=   10, Num_Train_expls= 60000, Num_test_examples= 10000, learning_rate=0.100000
+, Size_minibatch=8
+After epoch= 0, learning_rate=0.100000, S-NN Accuracy= 0.921900
+After epoch= 1, learning_rate=0.100000, S-NN Accuracy= 0.941900
+After epoch= 2, learning_rate=0.100000, S-NN Accuracy= 0.957400
+After epoch= 3, learning_rate=0.100000, S-NN Accuracy= 0.966400
+After epoch= 4, learning_rate=0.100000, S-NN Accuracy= 0.961500
+After epoch= 5, learning_rate=0.100000, S-NN Accuracy= 0.967700
+After epoch= 6, learning_rate=0.100000, S-NN Accuracy= 0.966000
+After epoch= 7, learning_rate=0.100000, S-NN Accuracy= 0.970900
+After epoch= 8, learning_rate=0.100000, S-NN Accuracy= 0.967400
+After epoch= 9, learning_rate=0.100000, S-NN Accuracy= 0.974700
+
+
+Experiment of building Supervised NN system has started.
+Sz0=  784, Sz1=  500, Sz2=  400, Sz3=   10, Num_Train_expls= 60000, Num_test_examples= 10000, learning_rate=0.100000
+, Size_minibatch=4
+After epoch= 0, learning_rate=0.100000, S-NN Accuracy= 0.926700
+After epoch= 1, learning_rate=0.100000, S-NN Accuracy= 0.953900
+After epoch= 2, learning_rate=0.100000, S-NN Accuracy= 0.948800
+After epoch= 3, learning_rate=0.100000, S-NN Accuracy= 0.961800
+After epoch= 4, learning_rate=0.100000, S-NN Accuracy= 0.962000
+After epoch= 5, learning_rate=0.100000, S-NN Accuracy= 0.962500
+After epoch= 6, learning_rate=0.100000, S-NN Accuracy= 0.970700
+After epoch= 7, learning_rate=0.100000, S-NN Accuracy= 0.971100
+After epoch= 8, learning_rate=0.100000, S-NN Accuracy= 0.971900
+After epoch= 9, learning_rate=0.100000, S-NN Accuracy= 0.970000
+
+
+Experiment of building Supervised NN system has started.
+Sz0=  784, Sz1=  500, Sz2=  400, Sz3=   10, Num_Train_expls= 60000, Num_test_examples= 10000, learning_rate=0.100000
+, Size_minibatch=2
+After epoch= 0, learning_rate=0.100000, S-NN Accuracy= 0.925200
+After epoch= 1, learning_rate=0.100000, S-NN Accuracy= 0.956300
+After epoch= 2, learning_rate=0.100000, S-NN Accuracy= 0.960600
+After epoch= 3, learning_rate=0.100000, S-NN Accuracy= 0.969000
+After epoch= 4, learning_rate=0.100000, S-NN Accuracy= 0.967500
+After epoch= 5, learning_rate=0.100000, S-NN Accuracy= 0.966300
+After epoch= 6, learning_rate=0.100000, S-NN Accuracy= 0.968200
+After epoch= 7, learning_rate=0.100000, S-NN Accuracy= 0.969700
+After epoch= 8, learning_rate=0.100000, S-NN Accuracy= 0.970700
+After epoch= 9, learning_rate=0.100000, S-NN Accuracy= 0.973100
+
+
+Experiment of building Supervised NN system has started.
+Sz0=  784, Sz1=  500, Sz2=  400, Sz3=   10, Num_Train_expls= 60000, Num_test_examples= 10000, learning_rate=0.100000
+, Size_minibatch=1
+After epoch= 0, learning_rate=0.100000, S-NN Accuracy= 0.922700
+After epoch= 1, learning_rate=0.100000, S-NN Accuracy= 0.929400
+After epoch= 2, learning_rate=0.100000, S-NN Accuracy= 0.952400
+After epoch= 3, learning_rate=0.100000, S-NN Accuracy= 0.947100
+After epoch= 4, learning_rate=0.100000, S-NN Accuracy= 0.961400
+After epoch= 5, learning_rate=0.100000, S-NN Accuracy= 0.962400
+After epoch= 6, learning_rate=0.100000, S-NN Accuracy= 0.965200
+After epoch= 7, learning_rate=0.100000, S-NN Accuracy= 0.963900
